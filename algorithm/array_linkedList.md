@@ -11,6 +11,10 @@
 최악의 경우 배열의 길이 N 만큼을 옮겨야 하므로 O(N)의 시간 복잡도를 가집니다.  
 인덱스를 새로 추가하려면, 새로운 공간을 할당해야 하므로 매우 비효율적인 자료구조입니다.
 
+<img src = https://i1.faceprep.in/Companies-1/difference-between-arrays-and-linked-list.png width=90%>
+
+출처 : [https://www.faceprep.in/data-structures/linked-list-vs-array/](https://www.faceprep.in/data-structures/linked-list-vs-array/)
+
 #### Linked List
 
 리스트는 크기가 정해지지 않은 데이터의 공간입니다.  
